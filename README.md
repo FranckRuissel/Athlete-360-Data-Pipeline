@@ -5,7 +5,7 @@
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-ETL-red)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Serving-green)
 
-> **Le Défi :** Traiter des logs GPS hétérogènes (IoT) pour alimenter un modèle de Machine Learning strict (XGBoost).
+> **Le Défi :** Traiter des logs GPS hétérogènes pour alimenter un modèle de Machine Learning strict (XGBoost).
 
 ## 🏗️ Architecture & Choix Techniques
 
