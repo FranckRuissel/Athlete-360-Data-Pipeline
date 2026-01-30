@@ -5,7 +5,6 @@ import random
 from datetime import datetime, timedelta
 import os
 
-
 # Si le dossier Docker existe, on l'utilise. Sinon, on utilise le dossier local "data"
 if os.path.exists("/opt/airflow/data"):
     DATA_DIR = "/opt/airflow/data"
