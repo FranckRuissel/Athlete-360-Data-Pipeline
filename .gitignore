@@ -3,4 +3,6 @@ __pycache__/
 .env
 venv/
 .DS_Store
-data/raw/* # 
+data/gps_logs_raw.csv
+data/medical_tests.csv
+data/wellness_api_response.json

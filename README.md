@@ -38,3 +38,6 @@ Cloner le projet :
 ```bash
 git clone [https://github.com/FranckRuissel/athlete-360-pipeline.git](https://github.com/FranckRuissel/Athlete-360-Data-Pipeline.git)
 cd athlete-360-pipeline
+
+
+demo: https://www.linkedin.com/posts/franck-mboutou_dataengineering-architecture-nosql-activity-7415037466539302912-r3az?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFTKCT4BT-dMNhFRbCvYMEtcGMWPaZd6nG0
